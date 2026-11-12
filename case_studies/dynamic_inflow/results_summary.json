@@ -1,0 +1,16 @@
+{
+    "pde_time_ms": 29.06,
+    "fno_time_ms": 2.61,
+    "speedup": 11.1,
+    "pde_hardware": "CPU, single-threaded banded Newton",
+    "fno_hardware": "GPU",
+    "h_rmse_m": 0.00635,
+    "h_mae_m": 0.00494,
+    "h_max_error_m": 0.0225,
+    "h_relative_l2": 0.03034,
+    "q_rmse_m3s": 0.1727,
+    "q_mae_m3s": 0.1375,
+    "q_max_error_m3s": 0.552,
+    "q_relative_l2": 0.03764,
+    "overall_relative_l2": 0.03399
+}
